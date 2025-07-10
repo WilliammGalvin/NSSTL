@@ -1,6 +1,7 @@
 # NSSTL (Not So Standard Library)
 
-This project is just for my own educational benefit. I'll be remaking many of the features from C++'s standard library (STL).  
+This project is just for my own educational benefit. I'll be remaking many of the features from C++'s standard library (STL). 
+<br/><br/>
 The goal is to deepen my understanding of templates, memory management, move semantics, iterators, and modern C++ design patterns.
 Feel free to join along and try for yourself! :)
 
